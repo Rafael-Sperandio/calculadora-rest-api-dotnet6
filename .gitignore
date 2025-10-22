@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Rest-calculadora-APSNET-6/Rest-calculadora-APSNET-6/.vs
+/Rest-calculadora-APSNET-6/Rest-calculadora-APSNET-6/bin/Debug/net6.0
+/Rest-calculadora-APSNET-6/Rest-calculadora-APSNET-6/obj
