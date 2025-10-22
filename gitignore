@@ -5,6 +5,8 @@
 
 # User-specific files
 .vs/
+bin/
+obj/
 *.suo
 *.bak
 *.user
